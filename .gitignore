@@ -63,5 +63,5 @@ target/
 .ipynb_checkpoints/
 
 # Tabular Residue
-.xlsx#
-.csv#
+*.xlsx#
+*.csv#
