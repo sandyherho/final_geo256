@@ -3,7 +3,7 @@
 # Requirements
 
 - [Python 3.10+](https://www.python.org/)
-- [NumPy] (https://numpy.org/)
+- [NumPy](https://numpy.org/)
 - [Pandas](https://pandas.pydata.org/docs/index.html)
 - [PyGMT](https://www.pygmt.org/)
 - [Matplotlib](https://matplotlib.org/)
