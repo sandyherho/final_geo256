@@ -24,5 +24,5 @@ This GitHub  repository includes satistical analyses and forecasts for daily Chl
 - [Statsmodels](https://www.statsmodels.org/)
 
 # Acknowledgements
-
+The author expresses profound gratitude to Iwan P. Anwar for his essential contribution in initiating this study and for the provision of his dissertation data for our analysis. Heartfelt thanks are also extended to Roby Douilly and fellow classmates from GEO256, whose teachings have been instrumental throughout the Spring quarter. Acknowledgment is also made to Andrew J. Ridgwell for his patience and understanding, which facilitated the delay of certain research activities to prioritize the completion of the final project. Additionally, the author is thankful for the financial support provided by the Directorate General of Higher Education, Research, and Technology, Ministry of Education, Culture, Research, and Technology, Republic of Indonesia, under grant No.FITB.PN-1-12-202, and ITB's Research, Community Service and Innovation Program (PPMI-ITB) for the years 2021 and 2022, which supported the data collection and numerical modeling efforts. The data processing and statistical analysis aspects of this study were made possible through the Dean's Distinguished Fellowship at the University of California, Riverside 2023.
 
