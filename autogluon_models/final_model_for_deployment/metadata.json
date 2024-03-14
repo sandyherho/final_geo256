@@ -316,6 +316,7 @@
     "utilsforecast": "0.0.27",
     "uvicorn": "0.27.1",
     "virtualenv": "20.25.1",
+    "vowpalwabbit": "9.9.0",
     "wasabi": "1.1.2",
     "wcwidth": "0.2.13",
     "weasel": "0.3.4",
